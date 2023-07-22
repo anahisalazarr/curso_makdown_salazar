@@ -6,9 +6,13 @@ Este es el tercer parrafo\
 este es cuarto\
 este quinto
 
-lista de profes\  
+lista de profes:
+
+-zulemma\
+-alonso\
+-jorge  
 
 
--zulemma 
--alonso 
--jorge
+#inserto imagenes
+
+![](imagenes/lide.png)
